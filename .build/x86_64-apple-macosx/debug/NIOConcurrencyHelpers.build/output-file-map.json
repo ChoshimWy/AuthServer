@@ -1,0 +1,17 @@
+{
+  "": {
+    "swift-dependencies": "/Users/weirujian/Desktop/WeiRuJian/Vapor/AuthServer/.build/x86_64-apple-macosx/debug/NIOConcurrencyHelpers.build/master.swiftdeps"
+  },
+  "/Users/weirujian/Desktop/WeiRuJian/Vapor/AuthServer/.build/checkouts/swift-nio/Sources/NIOConcurrencyHelpers/atomics.swift": {
+    "dependencies": "/Users/weirujian/Desktop/WeiRuJian/Vapor/AuthServer/.build/x86_64-apple-macosx/debug/NIOConcurrencyHelpers.build/atomics.d",
+    "object": "/Users/weirujian/Desktop/WeiRuJian/Vapor/AuthServer/.build/x86_64-apple-macosx/debug/NIOConcurrencyHelpers.build/atomics.swift.o",
+    "swiftmodule": "/Users/weirujian/Desktop/WeiRuJian/Vapor/AuthServer/.build/x86_64-apple-macosx/debug/NIOConcurrencyHelpers.build/atomics~partial.swiftmodule",
+    "swift-dependencies": "/Users/weirujian/Desktop/WeiRuJian/Vapor/AuthServer/.build/x86_64-apple-macosx/debug/NIOConcurrencyHelpers.build/atomics.swiftdeps"
+  },
+  "/Users/weirujian/Desktop/WeiRuJian/Vapor/AuthServer/.build/checkouts/swift-nio/Sources/NIOConcurrencyHelpers/lock.swift": {
+    "dependencies": "/Users/weirujian/Desktop/WeiRuJian/Vapor/AuthServer/.build/x86_64-apple-macosx/debug/NIOConcurrencyHelpers.build/lock.d",
+    "object": "/Users/weirujian/Desktop/WeiRuJian/Vapor/AuthServer/.build/x86_64-apple-macosx/debug/NIOConcurrencyHelpers.build/lock.swift.o",
+    "swiftmodule": "/Users/weirujian/Desktop/WeiRuJian/Vapor/AuthServer/.build/x86_64-apple-macosx/debug/NIOConcurrencyHelpers.build/lock~partial.swiftmodule",
+    "swift-dependencies": "/Users/weirujian/Desktop/WeiRuJian/Vapor/AuthServer/.build/x86_64-apple-macosx/debug/NIOConcurrencyHelpers.build/lock.swiftdeps"
+  }
+}

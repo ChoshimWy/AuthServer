@@ -1,0 +1,12 @@
+version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+options: "289d11c283c5ffbe68d7ed641f984ecd"
+build_time: [1585030889, 449473000]
+inputs:
+  "/Users/weirujian/Desktop/WeiRuJian/Vapor/AuthServer/.build/checkouts/url-encoded-form/Sources/URLEncodedForm/Codable/URLEncodedFormDecoder.swift": [1585030843, 666503891]
+  "/Users/weirujian/Desktop/WeiRuJian/Vapor/AuthServer/.build/checkouts/url-encoded-form/Sources/URLEncodedForm/Codable/URLEncodedFormEncoder.swift": [1585030843, 666799107]
+  "/Users/weirujian/Desktop/WeiRuJian/Vapor/AuthServer/.build/checkouts/url-encoded-form/Sources/URLEncodedForm/Data/URLEncodedFormData.swift": [1585030843, 689416268]
+  "/Users/weirujian/Desktop/WeiRuJian/Vapor/AuthServer/.build/checkouts/url-encoded-form/Sources/URLEncodedForm/Data/URLEncodedFormDataConvertible.swift": [1585030843, 689887504]
+  "/Users/weirujian/Desktop/WeiRuJian/Vapor/AuthServer/.build/checkouts/url-encoded-form/Sources/URLEncodedForm/Data/URLEncodedFormParser.swift": [1585030843, 690285278]
+  "/Users/weirujian/Desktop/WeiRuJian/Vapor/AuthServer/.build/checkouts/url-encoded-form/Sources/URLEncodedForm/Data/URLEncodedFormSerializer.swift": [1585030843, 690694789]
+  "/Users/weirujian/Desktop/WeiRuJian/Vapor/AuthServer/.build/checkouts/url-encoded-form/Sources/URLEncodedForm/Utilities/Exports.swift": [1585030843, 667790021]
+  "/Users/weirujian/Desktop/WeiRuJian/Vapor/AuthServer/.build/checkouts/url-encoded-form/Sources/URLEncodedForm/Utilities/URLEncodedFormError.swift": [1585030843, 667926911]

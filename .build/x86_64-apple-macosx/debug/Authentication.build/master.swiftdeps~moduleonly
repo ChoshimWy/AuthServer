@@ -1,0 +1,21 @@
+version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+options: "ac54bdeab0b17283d9769ab9c9e36192"
+build_time: [1585030917, 385104000]
+inputs:
+  "/Users/weirujian/Desktop/WeiRuJian/Vapor/AuthServer/.build/checkouts/auth/Sources/Authentication/Authenticatable.swift": [1585030846, 934771439]
+  "/Users/weirujian/Desktop/WeiRuJian/Vapor/AuthServer/.build/checkouts/auth/Sources/Authentication/AuthenticationCache.swift": [1585030846, 935010137]
+  "/Users/weirujian/Desktop/WeiRuJian/Vapor/AuthServer/.build/checkouts/auth/Sources/Authentication/AuthenticationProvider.swift": [1585030846, 935249199]
+  "/Users/weirujian/Desktop/WeiRuJian/Vapor/AuthServer/.build/checkouts/auth/Sources/Authentication/Basic/BasicAuthenticatable.swift": [1585030846, 935572340]
+  "/Users/weirujian/Desktop/WeiRuJian/Vapor/AuthServer/.build/checkouts/auth/Sources/Authentication/Basic/BasicAuthenticationMiddleware.swift": [1585030846, 935793556]
+  "/Users/weirujian/Desktop/WeiRuJian/Vapor/AuthServer/.build/checkouts/auth/Sources/Authentication/Bearer/BearerAuthenticatable.swift": [1585030846, 959452672]
+  "/Users/weirujian/Desktop/WeiRuJian/Vapor/AuthServer/.build/checkouts/auth/Sources/Authentication/Bearer/BearerAuthenticationMiddleware.swift": [1585030846, 959727272]
+  "/Users/weirujian/Desktop/WeiRuJian/Vapor/AuthServer/.build/checkouts/auth/Sources/Authentication/Exports.swift": [1585030846, 936409346]
+  "/Users/weirujian/Desktop/WeiRuJian/Vapor/AuthServer/.build/checkouts/auth/Sources/Authentication/Password/PasswordAuthenticatable.swift": [1585030846, 937143428]
+  "/Users/weirujian/Desktop/WeiRuJian/Vapor/AuthServer/.build/checkouts/auth/Sources/Authentication/Password/PasswordVerifier.swift": [1585030846, 937319735]
+  "/Users/weirujian/Desktop/WeiRuJian/Vapor/AuthServer/.build/checkouts/auth/Sources/Authentication/Persist/AuthenticationSessionsMiddleware.swift": [1585030846, 937597003]
+  "/Users/weirujian/Desktop/WeiRuJian/Vapor/AuthServer/.build/checkouts/auth/Sources/Authentication/Persist/RedirectMiddleware.swift": [1585030846, 937816176]
+  "/Users/weirujian/Desktop/WeiRuJian/Vapor/AuthServer/.build/checkouts/auth/Sources/Authentication/Persist/SessionAuthenticatable.swift": [1585030846, 938041074]
+  "/Users/weirujian/Desktop/WeiRuJian/Vapor/AuthServer/.build/checkouts/auth/Sources/Authentication/Token/TokenAuthenticatable.swift": [1585030846, 959982690]
+  "/Users/weirujian/Desktop/WeiRuJian/Vapor/AuthServer/.build/checkouts/auth/Sources/Authentication/Token/TokenAuthenticationMiddleware.swift": [1585030846, 960156719]
+  "/Users/weirujian/Desktop/WeiRuJian/Vapor/AuthServer/.build/checkouts/auth/Sources/Authentication/Utilities/AuthenticationError.swift": [1585030846, 938817596]
+  "/Users/weirujian/Desktop/WeiRuJian/Vapor/AuthServer/.build/checkouts/auth/Sources/Authentication/Utilities/GuardMiddleware.swift": [1585030846, 939016594]

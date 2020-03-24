@@ -1,0 +1,22 @@
+version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+options: "9dd5c23d0e1b6044f6662f963b311946"
+build_time: [1585030889, 448423000]
+inputs:
+  "/Users/weirujian/Desktop/WeiRuJian/Vapor/AuthServer/.build/checkouts/validation/Sources/Validation/Exports.swift": [1585030844, 56450424]
+  "/Users/weirujian/Desktop/WeiRuJian/Vapor/AuthServer/.build/checkouts/validation/Sources/Validation/Validatable.swift": [1585030844, 56841793]
+  "/Users/weirujian/Desktop/WeiRuJian/Vapor/AuthServer/.build/checkouts/validation/Sources/Validation/ValidationError.swift": [1585030844, 57033446]
+  "/Users/weirujian/Desktop/WeiRuJian/Vapor/AuthServer/.build/checkouts/validation/Sources/Validation/Validations.swift": [1585030844, 57247674]
+  "/Users/weirujian/Desktop/WeiRuJian/Vapor/AuthServer/.build/checkouts/validation/Sources/Validation/Validator.swift": [1585030844, 57471829]
+  "/Users/weirujian/Desktop/WeiRuJian/Vapor/AuthServer/.build/checkouts/validation/Sources/Validation/ValidatorType.swift": [1585030844, 57790088]
+  "/Users/weirujian/Desktop/WeiRuJian/Vapor/AuthServer/.build/checkouts/validation/Sources/Validation/Validators/AndValidator.swift": [1585030844, 58536772]
+  "/Users/weirujian/Desktop/WeiRuJian/Vapor/AuthServer/.build/checkouts/validation/Sources/Validation/Validators/CharacterSetValidator.swift": [1585030844, 58875952]
+  "/Users/weirujian/Desktop/WeiRuJian/Vapor/AuthServer/.build/checkouts/validation/Sources/Validation/Validators/CountValidator.swift": [1585030844, 61284503]
+  "/Users/weirujian/Desktop/WeiRuJian/Vapor/AuthServer/.build/checkouts/validation/Sources/Validation/Validators/EmailValidator.swift": [1585030844, 61527105]
+  "/Users/weirujian/Desktop/WeiRuJian/Vapor/AuthServer/.build/checkouts/validation/Sources/Validation/Validators/EmptyValidator.swift": [1585030844, 61704665]
+  "/Users/weirujian/Desktop/WeiRuJian/Vapor/AuthServer/.build/checkouts/validation/Sources/Validation/Validators/InValidator.swift": [1585030844, 61887806]
+  "/Users/weirujian/Desktop/WeiRuJian/Vapor/AuthServer/.build/checkouts/validation/Sources/Validation/Validators/NilIgnoringValidator.swift": [1585030844, 62069423]
+  "/Users/weirujian/Desktop/WeiRuJian/Vapor/AuthServer/.build/checkouts/validation/Sources/Validation/Validators/NilValidator.swift": [1585030844, 62232571]
+  "/Users/weirujian/Desktop/WeiRuJian/Vapor/AuthServer/.build/checkouts/validation/Sources/Validation/Validators/NotValidator.swift": [1585030844, 62421240]
+  "/Users/weirujian/Desktop/WeiRuJian/Vapor/AuthServer/.build/checkouts/validation/Sources/Validation/Validators/OrValidator.swift": [1585030844, 62624576]
+  "/Users/weirujian/Desktop/WeiRuJian/Vapor/AuthServer/.build/checkouts/validation/Sources/Validation/Validators/RangeValidator.swift": [1585030844, 62813694]
+  "/Users/weirujian/Desktop/WeiRuJian/Vapor/AuthServer/.build/checkouts/validation/Sources/Validation/Validators/URLValidator.swift": [1585030844, 63034017]

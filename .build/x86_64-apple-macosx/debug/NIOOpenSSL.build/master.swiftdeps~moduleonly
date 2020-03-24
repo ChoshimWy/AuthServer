@@ -1,0 +1,21 @@
+version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+options: "84e3a1729c42e598553c696205c523ef"
+build_time: [1585030882, 927363000]
+inputs:
+  "/Users/weirujian/Desktop/WeiRuJian/Vapor/AuthServer/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/ByteBufferBIO.swift": [1585030846, 577417221]
+  "/Users/weirujian/Desktop/WeiRuJian/Vapor/AuthServer/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/IdentityVerification.swift": [1585030846, 577600991]
+  "/Users/weirujian/Desktop/WeiRuJian/Vapor/AuthServer/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/OpenSSLClientHandler.swift": [1585030846, 577753744]
+  "/Users/weirujian/Desktop/WeiRuJian/Vapor/AuthServer/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/OpenSSLHandler.swift": [1585030846, 578019872]
+  "/Users/weirujian/Desktop/WeiRuJian/Vapor/AuthServer/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/OpenSSLServerHandler.swift": [1585030846, 578178583]
+  "/Users/weirujian/Desktop/WeiRuJian/Vapor/AuthServer/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/PosixPort.swift": [1585030846, 578306298]
+  "/Users/weirujian/Desktop/WeiRuJian/Vapor/AuthServer/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/SSLCertificate.swift": [1585030846, 578484992]
+  "/Users/weirujian/Desktop/WeiRuJian/Vapor/AuthServer/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/SSLConnection.swift": [1585030846, 578702481]
+  "/Users/weirujian/Desktop/WeiRuJian/Vapor/AuthServer/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/SSLContext.swift": [1585030846, 579080336]
+  "/Users/weirujian/Desktop/WeiRuJian/Vapor/AuthServer/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/SSLErrors.swift": [1585030846, 579288256]
+  "/Users/weirujian/Desktop/WeiRuJian/Vapor/AuthServer/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/SSLInit.swift": [1585030846, 579415229]
+  "/Users/weirujian/Desktop/WeiRuJian/Vapor/AuthServer/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/SSLPKCS12Bundle.swift": [1585030846, 579575815]
+  "/Users/weirujian/Desktop/WeiRuJian/Vapor/AuthServer/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/SSLPointerTricks.swift": [1585030846, 579703309]
+  "/Users/weirujian/Desktop/WeiRuJian/Vapor/AuthServer/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/SSLPrivateKey.swift": [1585030846, 579863094]
+  "/Users/weirujian/Desktop/WeiRuJian/Vapor/AuthServer/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/SSLPublicKey.swift": [1585030846, 579995370]
+  "/Users/weirujian/Desktop/WeiRuJian/Vapor/AuthServer/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/SSLVerificationCallbacks.swift": [1585030846, 580154472]
+  "/Users/weirujian/Desktop/WeiRuJian/Vapor/AuthServer/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/TLSConfiguration.swift": [1585030846, 580474895]

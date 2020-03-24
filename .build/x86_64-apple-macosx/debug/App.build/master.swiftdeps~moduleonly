@@ -1,0 +1,13 @@
+version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+options: "66a9583dfb2f46952f2ea10e0fffb7c4"
+build_time: [1585030919, 944033000]
+inputs:
+  "/Users/weirujian/Desktop/WeiRuJian/Vapor/AuthServer/Sources/App/Controllers/TodoController.swift": [1584719780, 875093356]
+  "/Users/weirujian/Desktop/WeiRuJian/Vapor/AuthServer/Sources/App/Controllers/UserController.swift": [1584719780, 875220871]
+  "/Users/weirujian/Desktop/WeiRuJian/Vapor/AuthServer/Sources/App/Models/Todo.swift": [1584719780, 875440222]
+  "/Users/weirujian/Desktop/WeiRuJian/Vapor/AuthServer/Sources/App/Models/User.swift": [1584719780, 875567907]
+  "/Users/weirujian/Desktop/WeiRuJian/Vapor/AuthServer/Sources/App/Models/UserToken.swift": [1584719780, 875770630]
+  "/Users/weirujian/Desktop/WeiRuJian/Vapor/AuthServer/Sources/App/app.swift": [1584719780, 875904314]
+  "/Users/weirujian/Desktop/WeiRuJian/Vapor/AuthServer/Sources/App/boot.swift": [1584719780, 876010590]
+  "/Users/weirujian/Desktop/WeiRuJian/Vapor/AuthServer/Sources/App/configure.swift": [1584719780, 876124572]
+  "/Users/weirujian/Desktop/WeiRuJian/Vapor/AuthServer/Sources/App/routes.swift": [1584719780, 876238985]

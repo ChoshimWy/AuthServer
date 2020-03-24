@@ -1,0 +1,4 @@
+module CNIOHTTPParser {
+    umbrella header "/Users/weirujian/Desktop/WeiRuJian/Vapor/AuthServer/.build/checkouts/swift-nio/Sources/CNIOHTTPParser/include/CNIOHTTPParser.h"
+    export *
+}

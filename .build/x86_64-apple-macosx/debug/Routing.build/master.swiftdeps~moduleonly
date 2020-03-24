@@ -1,0 +1,16 @@
+version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+options: "229e27c33d07dccb16a4c95715453692"
+build_time: [1585030894, 312394000]
+inputs:
+  "/Users/weirujian/Desktop/WeiRuJian/Vapor/AuthServer/.build/checkouts/routing/Sources/Routing/Parameter/Parameter.swift": [1585030846, 122917718]
+  "/Users/weirujian/Desktop/WeiRuJian/Vapor/AuthServer/.build/checkouts/routing/Sources/Routing/Parameter/ParameterValue.swift": [1585030846, 123101904]
+  "/Users/weirujian/Desktop/WeiRuJian/Vapor/AuthServer/.build/checkouts/routing/Sources/Routing/Parameter/Parameters.swift": [1585030846, 123278593]
+  "/Users/weirujian/Desktop/WeiRuJian/Vapor/AuthServer/.build/checkouts/routing/Sources/Routing/Register/PathComponent.swift": [1585030846, 123567223]
+  "/Users/weirujian/Desktop/WeiRuJian/Vapor/AuthServer/.build/checkouts/routing/Sources/Routing/Register/Route.swift": [1585030846, 123945509]
+  "/Users/weirujian/Desktop/WeiRuJian/Vapor/AuthServer/.build/checkouts/routing/Sources/Routing/Register/RouterOption.swift": [1585030846, 124171613]
+  "/Users/weirujian/Desktop/WeiRuJian/Vapor/AuthServer/.build/checkouts/routing/Sources/Routing/Routing/RoutableComponent.swift": [1585030846, 124460604]
+  "/Users/weirujian/Desktop/WeiRuJian/Vapor/AuthServer/.build/checkouts/routing/Sources/Routing/Routing/RouterNode.swift": [1585030846, 124679480]
+  "/Users/weirujian/Desktop/WeiRuJian/Vapor/AuthServer/.build/checkouts/routing/Sources/Routing/Routing/TrieRouter.swift": [1585030846, 124976072]
+  "/Users/weirujian/Desktop/WeiRuJian/Vapor/AuthServer/.build/checkouts/routing/Sources/Routing/Utilities/Deprecated.swift": [1585030846, 125261904]
+  "/Users/weirujian/Desktop/WeiRuJian/Vapor/AuthServer/.build/checkouts/routing/Sources/Routing/Utilities/Exports.swift": [1585030846, 125382230]
+  "/Users/weirujian/Desktop/WeiRuJian/Vapor/AuthServer/.build/checkouts/routing/Sources/Routing/Utilities/RoutingError.swift": [1585030846, 125500477]

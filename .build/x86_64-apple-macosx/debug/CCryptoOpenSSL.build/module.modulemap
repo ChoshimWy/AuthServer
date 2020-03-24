@@ -1,0 +1,4 @@
+module CCryptoOpenSSL {
+    umbrella "/Users/weirujian/Desktop/WeiRuJian/Vapor/AuthServer/.build/checkouts/crypto/Sources/CCryptoOpenSSL/include"
+    export *
+}

@@ -1,0 +1,4 @@
+module CNIOLinux {
+    umbrella header "/Users/weirujian/Desktop/WeiRuJian/Vapor/AuthServer/.build/checkouts/swift-nio/Sources/CNIOLinux/include/CNIOLinux.h"
+    export *
+}

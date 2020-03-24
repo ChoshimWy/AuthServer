@@ -1,0 +1,4 @@
+module CNIOOpenSSL {
+    umbrella "/Users/weirujian/Desktop/WeiRuJian/Vapor/AuthServer/.build/checkouts/swift-nio-ssl/Sources/CNIOOpenSSL/include"
+    export *
+}

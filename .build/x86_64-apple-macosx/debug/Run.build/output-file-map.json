@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/weirujian/Desktop/WeiRuJian/Vapor/AuthServer/.build/x86_64-apple-macosx/debug/Run.build/master.swiftdeps"
+  },
+  "/Users/weirujian/Desktop/WeiRuJian/Vapor/AuthServer/Sources/Run/main.swift": {
+    "dependencies": "/Users/weirujian/Desktop/WeiRuJian/Vapor/AuthServer/.build/x86_64-apple-macosx/debug/Run.build/main.d",
+    "object": "/Users/weirujian/Desktop/WeiRuJian/Vapor/AuthServer/.build/x86_64-apple-macosx/debug/Run.build/main.swift.o",
+    "swiftmodule": "/Users/weirujian/Desktop/WeiRuJian/Vapor/AuthServer/.build/x86_64-apple-macosx/debug/Run.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/weirujian/Desktop/WeiRuJian/Vapor/AuthServer/.build/x86_64-apple-macosx/debug/Run.build/main.swiftdeps"
+  }
+}

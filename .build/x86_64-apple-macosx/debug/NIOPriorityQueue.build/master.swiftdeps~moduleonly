@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+options: "9c462d22ea9d286f475b07852d7c4aaf"
+build_time: [1585030854, 13052000]
+inputs:
+  "/Users/weirujian/Desktop/WeiRuJian/Vapor/AuthServer/.build/checkouts/swift-nio/Sources/NIOPriorityQueue/Heap.swift": [1585030845, 130426248]
+  "/Users/weirujian/Desktop/WeiRuJian/Vapor/AuthServer/.build/checkouts/swift-nio/Sources/NIOPriorityQueue/PriorityQueue.swift": [1585030845, 130678603]

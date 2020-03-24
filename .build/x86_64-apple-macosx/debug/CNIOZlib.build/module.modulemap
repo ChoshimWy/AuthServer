@@ -1,0 +1,4 @@
+module CNIOZlib {
+    umbrella header "/Users/weirujian/Desktop/WeiRuJian/Vapor/AuthServer/.build/checkouts/swift-nio/Sources/CNIOZlib/include/CNIOZlib.h"
+    export *
+}

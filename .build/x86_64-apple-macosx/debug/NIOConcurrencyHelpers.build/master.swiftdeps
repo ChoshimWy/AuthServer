@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+options: "b123beb71613f62015f05b2918051e49"
+build_time: [1585030872, 476516000]
+inputs:
+  "/Users/weirujian/Desktop/WeiRuJian/Vapor/AuthServer/.build/checkouts/swift-nio/Sources/NIOConcurrencyHelpers/atomics.swift": [1585030845, 125021835]
+  "/Users/weirujian/Desktop/WeiRuJian/Vapor/AuthServer/.build/checkouts/swift-nio/Sources/NIOConcurrencyHelpers/lock.swift": [1585030845, 125277459]

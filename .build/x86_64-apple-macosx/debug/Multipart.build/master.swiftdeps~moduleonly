@@ -1,0 +1,12 @@
+version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+options: "f2ed4a387e25b652df88512b7f5d6694"
+build_time: [1585030889, 447112000]
+inputs:
+  "/Users/weirujian/Desktop/WeiRuJian/Vapor/AuthServer/.build/checkouts/multipart/Sources/Multipart/Exports.swift": [1585030843, 438904586]
+  "/Users/weirujian/Desktop/WeiRuJian/Vapor/AuthServer/.build/checkouts/multipart/Sources/Multipart/FormDataDecoder.swift": [1585030843, 439462600]
+  "/Users/weirujian/Desktop/WeiRuJian/Vapor/AuthServer/.build/checkouts/multipart/Sources/Multipart/FormDataEncoder.swift": [1585030843, 440227854]
+  "/Users/weirujian/Desktop/WeiRuJian/Vapor/AuthServer/.build/checkouts/multipart/Sources/Multipart/MultipartError.swift": [1585030843, 440615484]
+  "/Users/weirujian/Desktop/WeiRuJian/Vapor/AuthServer/.build/checkouts/multipart/Sources/Multipart/MultipartParser.swift": [1585030843, 441251189]
+  "/Users/weirujian/Desktop/WeiRuJian/Vapor/AuthServer/.build/checkouts/multipart/Sources/Multipart/MultipartPart.swift": [1585030843, 441485783]
+  "/Users/weirujian/Desktop/WeiRuJian/Vapor/AuthServer/.build/checkouts/multipart/Sources/Multipart/MultipartPartConvertible.swift": [1585030843, 441763861]
+  "/Users/weirujian/Desktop/WeiRuJian/Vapor/AuthServer/.build/checkouts/multipart/Sources/Multipart/MultipartSerializer.swift": [1585030843, 441990817]
